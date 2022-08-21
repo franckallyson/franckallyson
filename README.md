@@ -3,8 +3,8 @@
 ---
 <div align="center">
   <a href="https://github.com/franckallyson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franckallyson&count_private=true&include_all_commits=true&show_icons=true&theme=merko&title_color=D90202&text_color=FFFFFF&icon_color=D90202"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franckallyson&theme=merko&langs_count=3&title_color=D90202&text_color=FFFFFF" /><img src="https://github.com/franckallyson/franckallyson/blob/main/images/shelby.png" alt="shelby" style="float: left; margin-right: 10px;" width="165px" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franckallyson&count_private=true&include_all_commits=true&show_icons=true&theme=merko&title_color=D90202&text_color=FFFFFF&icon_color=D90202"/><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franckallyson&theme=merko&langs_count=3&title_color=D90202&text_color=FFFFFF" /><img height="180em" src="https://github.com/franckallyson/franckallyson/blob/main/images/shelby.png" alt="shelby" style="float: left; margin-right: 10px;" width="165px" />
 </div>
 ---
 ### Tech & Tools Preference
