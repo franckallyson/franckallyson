@@ -2,7 +2,9 @@
 
 ---
 
-
+![Franck's github stats](https://github-readme-stats.vercel.app/api?username=franckallyson&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franckallyson&langs_count=4)
+---
 ### Tech & Tools Preference
 <img src = "https://img.shields.io/badge/-Python-1572B6?style=flat&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/-Django-3C990D?style=flat&logo=django&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-C-8D99FF?style=flat&logo=c&logoColor=white"> 
