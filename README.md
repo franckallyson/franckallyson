@@ -29,21 +29,6 @@
 </div>
 <hr>
 
-<a href="https://github.com/franckallyson/algoritmos_e_estruturas_de_dados">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=franckallyson&repo=algoritmos_e_estruturas_de_dados&theme=merko&text_color=FFFFFF&title_color=D90202&icon_color=D90202" />
-</a>                
-<a href="https://github.com/franckallyson/Games">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=franckallyson&repo=Games&theme=merko&text_color=FFFFFF&title_color=D90202&icon_color=D90202" />
-</a>  
-<br>
-<br>
-               
-<a href="https://github.com/franckallyson/CollegeExercises">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=franckallyson&repo=CollegeExercises&theme=merko&text_color=FFFFFF&title_color=D90202&icon_color=D90202" />
-</a>  
-<a href="https://github.com/franckallyson/Django-Projects">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=franckallyson&repo=Django-Projects&theme=merko&text_color=FFFFFF&title_color=D90202&icon_color=D90202" />
-</a>  
 
 <!--
 **franckallyson/franckallyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
