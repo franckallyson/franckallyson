@@ -2,8 +2,8 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckallyson&count_private=true&include_all_commits=true&show_icons=true&theme=merko&title_color=D90202&text_color=FFFFFF&icon_color=D90202)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franckallyson&theme=merko&langs_count=3&title_color=D90202&text_color=FFFFFF)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="200px" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franckallyson&count_private=true&include_all_commits=true&show_icons=true&theme=merko&title_color=D90202&text_color=FFFFFF&icon_color=D90202) <img src="https://github.com/franckallyson/franckallyson/blob/main/shelby.jpg" alt="shelby" style="float: left; margin-right: 10px;" width="165px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franckallyson&theme=merko&langs_count=3&title_color=D90202&text_color=FFFFFF)
 ---
 ### Tech & Tools Preference
 <img src = "https://img.shields.io/badge/-Python-1572B6?style=flat&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/-Django-3C990D?style=flat&logo=django&logoColor=white"> 
