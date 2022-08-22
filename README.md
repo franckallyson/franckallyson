@@ -1,4 +1,4 @@
-<img align="right" alt="Shelby" height="170" style="border-radius:50px;" src="https://github.com/franckallyson/franckallyson/blob/main/images/shelby.png" alt="shelby" > <br>
+<img align="right" alt="Shelby" height="160" style="border-radius:50px;" src="https://github.com/franckallyson/franckallyson/blob/main/images/shelby.png" alt="shelby" > <br>
 ### Hi there, I'm Franck Allyson 
 ⚡I'm a Information Systems Student in IFNMG  
 🔭 I'm looking for opportunities in the programming business  
@@ -8,7 +8,7 @@
 ---
 <div align="center">
   <a href="https://github.com/franckallyson">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=franckallyson&count_private=true&include_all_commits=true&show_icons=true&theme=merko&title_color=D90202&text_color=FFFFFF&icon_color=D90202"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=franckallyson&include_all_commits=true&show_icons=true&theme=merko&title_color=D90202&text_color=FFFFFF&icon_color=D90202"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franckallyson&theme=merko&langs_count=3&title_color=D90202&text_color=FFFFFF" />
 </div>
 
