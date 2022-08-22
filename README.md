@@ -1,7 +1,7 @@
-
-### Hi there, I'm Franck Allyson
+<img align="right" alt="Shelby" height="170" style="border-radius:50px;" src="https://github.com/franckallyson/franckallyson/blob/main/images/shelby.png" alt="shelby" > <br>
+### Hi there, I'm Franck Allyson 
 ⚡I'm a Information Systems Student in IFNMG  
-🔭 I'm looking for opportunities in the programming business  <img align="right" alt="Shelby" height="170" style="border-radius:50px;" src="https://github.com/franckallyson/franckallyson/blob/main/images/shelby.png" alt="shelby" > <br>
+🔭 I'm looking for opportunities in the programming business  
 😄 Oh, I Love Python!
 
 
