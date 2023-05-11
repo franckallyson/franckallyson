@@ -9,6 +9,18 @@
 </div>
 
 ---
+<div align="center">
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=franckallyson&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=franckallyson&show_icons=true" />
+</picture>
+</div>
+
+---
 
 <h3 align="center" > Favorite Languanges and Tools </h3>
 <div align="center">
