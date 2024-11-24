@@ -1,6 +1,6 @@
 <img align="left" alt="Shelby" height="160" style="border-radius:50px;" src="https://github.com/franckallyson/franckallyson/blob/main/images/shelby.png" alt="shelby" > <br>
 ### Hi there, I'm Franck Allyson 
-⚡I'm a Information Systems Student in IFBA 
+⚡I'm a Information Systems Student in IFBA  
 🔭 I'm looking for opportunities in the programming business  
 😄 Oh, I Love Python!
 
